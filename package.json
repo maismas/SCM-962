@@ -1,0 +1,7 @@
+{
+  "name": "tradiecore-fe",
+  "version": "2.2.0",
+  "dependencies": {
+    "@hipagesgroup/toolbox-rn": "1.71.1"
+  }
+}
